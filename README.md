@@ -13,13 +13,17 @@ O StudyMentor é uma plataforma de IA que disponibiliza um questionário para os
 ## 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀 𝗨𝘁𝗶𝗹𝗶𝘇𝗮𝗱𝗮𝘀:
 
 • Integração da API com ChatGPT
+
 • Frontend: React.js, Bootstrap, Express
+
 • Backend: Node.js, Express.js
 
 ## 𝗕𝗲𝗻𝗲𝗳í𝗰𝗶𝗼𝘀:
 
 • Personalização da Aprendizagem: Permite a cada aluno criar o seu próprio percurso educacional, maximizando a retenção de informações.
+
 • Melhoria da Eficiência: Otimiza o uso do tempo de estudo, reduzindo a fadiga e maximizando a aprendizagem.
+
 • Redução da Desigualdade Educacional: Democratiza o acesso à educação de qualidade, garantindo que todos possam beneficiar de aprendizagem personalizada.
 
 Esta plataforma visa não apenas transformar a forma como os alunos aprendem, mas também aspira a contribuir para o desenvolvimento de comunidades em áreas menos desenvolvidas, ao oferecer uma educação acessível e personalizada para todos.
