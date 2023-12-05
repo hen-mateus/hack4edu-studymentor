@@ -1,0 +1,133 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  background-color: #1A1D21;
+  width: 100%;
+  z-index: -1;
+}
+
+.button {
+  border-radius: 12px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  background: linear-gradient(118deg, rgba(215, 237, 237, 0.16) -47.79%, rgba(204, 235, 235, 0.186) 100%);
+}
+
+.button-send {
+  border: none;
+  outline: none;
+  border-radius: 12px;
+  background: #1A1D21;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+.font {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.icon {
+  align-items: center;
+  background: linear-gradient(118deg, rgba(215, 237, 237, 0.16) -47.79%, rgba(204, 235, 235, 0.00) 100%);
+  border-color: rgba(255, 255, 255, 0.08);
+  border-radius: 56px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  gap: 16px;
+  height: 48px;
+  justify-content: center;
+  padding: 14px 16px;
+  width: 48px;
+}
+
+.message-input {
+  align-items: center;
+  background-color: #0D0F10;
+  border-radius: 20px;
+  display: flex;
+  gap: 24px;
+  padding: 24px;
+  position: relative;
+}
+
+.active {
+  background-color: #2976b08e;
+  color: white;
+}
+
+.button:hover {
+  background-color: #57a1da2f;
+  color: white;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.bg-nav{
+  background-color: #ffffff;
+}
+
+.input-bg{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.form-control::placeholder {
+  color: white;
+}
+
+.form-control {
+  border: none;
+  outline: none;
+}
+
+.like:hover{
+  background-color: #26ac1773;
+}
+
+.dislike:hover{
+  background-color: #ac171773;
+}
