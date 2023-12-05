@@ -1,29 +1,22 @@
-# StudyMentor - 4ª Edicção do HACK4EDU - ProFuturo
+# StudyMentor - 4th Edition of HACK4EDU - ProFuturo
 
-O StudyMentor é uma plataforma de IA que disponibiliza um questionário para os utilizadores determinarem o seu perfil de aprendizagem (Perfil Visual, Perfil Auditivo, Perfil Leitor/Escritor ou Perfil Cinestésico). Posteriormente, a inteligência artificial fornece um método de estudo, horário de aprendizagem e recursos educacionais, mais adequados para o perfil do utilizador, baseado no tema enviado pelo chat.
+StudyMentor is an AI platform that offers a questionnaire to users to determine their learning profile (Visual Profile, Auditory Profile, Reading/Writing Profile, or Kinesthetic Profile). Subsequently, the artificial intelligence provides a study method, learning schedule, and educational resources more suitable for the user's profile, based on the topic sent through the chat.
 
- O seu foco principal é a personalização do ensino, visando combater a desigualdade educacional ao garantir acesso a materiais educativos valiosos, independentemente de limitações de recursos. Este compromisso contribui para o desenvolvimento de comunidades em regiões subdesenvolvidas.
+Its primary focus is on the customization of education, aiming to combat educational inequality by ensuring access to valuable educational materials, regardless of resource limitations. This commitment contributes to the development of communities in underdeveloped regions.
 
-## 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗶𝘀 𝗙𝘂𝗻𝗰𝗶𝗼𝗻𝗮𝗹𝗶𝗱𝗮𝗱𝗲𝘀:
+## 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗹 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝗶𝗲𝘀:
+• Personalized Study Methods: Adapted to the individual learning needs and goals of each student.
+• Optimization of Study Schedule: Identifying the best moments for learning, adjusting to the student's circadian rhythm.
+• Learning Resource Recommendations: Suggesting books, videos, online courses, and other high-quality materials related to each study topic.
 
-• Métodos de Estudo Personalizados: Adaptados às necessidades e objetivos de aprendizagem individuais de cada aluno.
-• Otimização do Horário de Estudo: Identificação dos melhores momentos para a aprendizagem, ajustando-se ao ritmo circadiano do aluno.
-• Recomendação de Recursos de Aprendizagem: Sugestão de livros, vídeos, cursos online e outros materiais de alta qualidade relacionados a cada tópico de estudo.
+## 𝗨𝘁𝗶𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
+• Integration of the API with ChatGPT.
+• Frontend: React.js, Bootstrap, Express.
+• Backend: Node.js, Express.js.
 
-## 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀 𝗨𝘁𝗶𝗹𝗶𝘇𝗮𝗱𝗮𝘀:
+## 𝗕𝗲𝗻𝗲𝗳𝗶𝘁𝘀:
+• Personalization of Learning: Allows each student to create their educational path, maximizing information retention.
+• Efficiency Improvement: Optimizes study time usage, reducing fatigue, and maximizing learning.
+• Reduction of Educational Inequality: Democratizes access to quality education, ensuring that everyone can benefit from personalized learning.
 
-• Integração da API com ChatGPT
-
-• Frontend: React.js, Bootstrap, Express
-
-• Backend: Node.js, Express.js
-
-## 𝗕𝗲𝗻𝗲𝗳í𝗰𝗶𝗼𝘀:
-
-• Personalização da Aprendizagem: Permite a cada aluno criar o seu próprio percurso educacional, maximizando a retenção de informações.
-
-• Melhoria da Eficiência: Otimiza o uso do tempo de estudo, reduzindo a fadiga e maximizando a aprendizagem.
-
-• Redução da Desigualdade Educacional: Democratiza o acesso à educação de qualidade, garantindo que todos possam beneficiar de aprendizagem personalizada.
-
-Esta plataforma visa não apenas transformar a forma como os alunos aprendem, mas também aspira a contribuir para o desenvolvimento de comunidades em áreas menos desenvolvidas, ao oferecer uma educação acessível e personalizada para todos.
+This platform aims not only to transform how students learn but also aspires to contribute to the development of communities in less developed areas by offering accessible and personalized education for all.
